@@ -8,7 +8,7 @@ INPUT_SUBSCRIPTION = "projects/hadooptest-223316/subscriptions/vitualStoreSubscr
 ##
 # Change the path to the dir where your service account private key file is kept
 ##
-SERVICE_ACCOUNT_PATH = "/home/aakash/credentials/pubsubtest.json"
+SERVICE_ACCOUNT_PATH = "/home/SaylBlessings/credentials/pubsubtest.json"
 
 
 ##
